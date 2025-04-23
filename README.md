@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🔭 I’m currently working on building my portfolio
+🌱 I’m currently learning Natural Language Processing with language C
+👯 I’m looking to collaborate on projects about web development and web mobile
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 Contact me
+⚡ Fun fact: ...
+
 <!--
 **Amneharoun/Amneharoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
